@@ -1,0 +1,5 @@
+build/*.o
+build/canny-edge
+build/canny-edge-speedup
+build/image-compare
+.cache
